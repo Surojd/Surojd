@@ -70,8 +70,7 @@ I am a software developer with robust problem-solving skills and proven experien
 
 ### Contact Information
 
-- **Home**: 123-456-7890
-- **Cell**: +977-9849-199-291
+- **Cell**: [+977-9849-199-291]
 - **Email**: surojsmiling@gmail.com
 - **Address**: Khokana, Lalitpur, Nepal
 - **LinkedIn**: [@surojd]([LinkedInProfileLink](https://www.linkedin.com/in/surojd/))
